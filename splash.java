@@ -2,7 +2,7 @@ package employee.manage.system;
 import javax.swing.*;
 import java.awt.*;
 public class splash extends JFrame{
-    
+    //home screen
     splash(){
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
@@ -32,7 +32,7 @@ public class splash extends JFrame{
          }catch(Exception e){
              
          }
-         
+         //blinking of title
          heading.setVisible(true);
           heading.setVisible(false);
          try{
