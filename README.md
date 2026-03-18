@@ -4,7 +4,7 @@ The Employee Management System (EMS) is a software application designed to manag
 This project simplifies administrative tasks and improves data management using a centralized system.
 Features
 
-👤 Add new employees
+👤 Add new employee
 
 📝 Update employee details
 
@@ -39,4 +39,4 @@ MySQL / PostgreSQL
 
 🧰 Tools & IDE
 
-NetBeans / VS Code / Eclipse
+NetBeans 
