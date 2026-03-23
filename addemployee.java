@@ -16,7 +16,8 @@ public class addemployee extends JFrame implements ActionListener{
             
     Random rn=new Random();
     int number=rn.nextInt(99999);
-    
+
+    //menu bar to add employees
     addemployee(){
         getContentPane().setBackground(Color.white);
         setLayout(null);
