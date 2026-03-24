@@ -51,9 +51,7 @@ public class addemployee extends JFrame implements ActionListener{
     labeldob.setFont(new Font("SERIF",Font.PLAIN, 25));
     add(labeldob); 
     
-    //JTextField tfdob= new JTextField();
-    //tfdob.setBounds(200,150,300,30);
-    //add(tfdob);
+    
      dob = new JDateChooser();
     dob.setBounds(175,145,130,30);
     add(dob);
