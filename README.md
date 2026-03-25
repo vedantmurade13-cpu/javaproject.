@@ -16,8 +16,6 @@ Features
 
 💰 Manage salary details
 
-📊 Attendance tracking (optional)
-
 🔐 Secure login system (Admin/User)
 
 Technologies Used
@@ -31,7 +29,7 @@ JavaScript
 
 ⚙️ Backend
 
-Java / Python / PHP (choose your stack)
+Java 
 
 🗄️ Database
 
